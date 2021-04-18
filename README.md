@@ -1,4 +1,8 @@
-References  
+# Introduction to LabVIEW FPGA for RF, Radar, and Electronic Warfare Applications  
+## Chapter 1 Introduction  
+
+*References*  
+
 [1] Skolnik, M. I., Introduction to Radar Systems, 3rd ed., Boston, MA: McGraw Hill, 2001.  
 [2] Maxfield, C., FPGAs: Instant Access, Boston, MA: Newnes, 2008.  
 [3] Richards, M. A., et al., Principles of Modern Radar: Basic Principles, Raleigh, NC: SciTech Publishing, 2010.  
