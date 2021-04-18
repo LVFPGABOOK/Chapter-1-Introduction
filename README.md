@@ -1,9 +1,9 @@
 References  
 [1] Skolnik, M. I., Introduction to Radar Systems, 3rd ed., Boston, MA: McGraw Hill, 2001.  
-[2] Maxfi eld, C., FPGAs: Instant Access, Boston, MA: Newnes, 2008.  
+[2] Maxfield, C., FPGAs: Instant Access, Boston, MA: Newnes, 2008.  
 [3] Richards, M. A., et al., Principles of Modern Radar: Basic Principles, Raleigh, NC: SciTech Publishing, 2010.  
 [4] Koch, D., FPGAs for Software Programmers, New York: Springer Science+Business Media, 2015.  
-[5] Maxfi eld, C., The Design Warrior’s Guide to FPGAs: Devices, Tools, and Flows, Boston, MA: Newnes/Elsevier, 2004.  
+[5] Maxfield, C., The Design Warrior’s Guide to FPGAs: Devices, Tools, and Flows, Boston, MA: Newnes/Elsevier, 2004.  
 [6] Haskell, R. E., and D. M. Hanna, Digital Design: Using Digilent FPGA Boards-VHDL Active-HDL Edition, LBE Books, 2018.  
 [7] Kehtarnavaz, N., and S. Mahotra, Digital Signal Processing Laboratory: LabVIEW-Based FPGA Implementation, Boca Raton, FL: Brown Walker Press, 2010.  
 [8] Meyer-Baese, U., Digital Signal Processing with Field Programmable Gate Arrays, 4th ed., New York: Springer, 2014.  
