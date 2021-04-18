@@ -1,5 +1,5 @@
 References
-[1] Skolnik, M. I., Introduction to Radar Systems, 3rd ed., Boston, MA: McGraw Hill, 2001.
+[1] Skolnik, M. I., Introduction to Radar Systems, 3rd ed., Boston, MA: McGraw Hill, 2001.\n
 [2] Maxfi eld, C., FPGAs: Instant Access, Boston, MA: Newnes, 2008.
 [3] Richards, M. A., et al., Principles of Modern Radar: Basic Principles, Raleigh, NC: SciTech Publishing, 2010.
 [4] Koch, D., FPGAs for Software Programmers, New York: Springer Science+Business Media, 2015.
