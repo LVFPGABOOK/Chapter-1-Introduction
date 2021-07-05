@@ -19,7 +19,7 @@
 [14] Fingeroff, M., High-Level Synthesis: Blue Book, Mentor Graphics Corporation, 2010.  
 [15] Ponce-Cruz, P., A. Molina, and B. MacCleery, Fuzzy Logic Type 1 and Type 2 Based on LabVIEW FPGA, New York: Springer, 2016.  
 [16] Rosker, M., “Spectrum Collaboration Challenge (SC2),” Defense Advanced Research Projects Agency (DARPA), 2020, https://www.darpa.mil/program/spectrum-collaboration-challenge.  
-[17] Baxley, R. J., and R. S. Thompson, “Team Zylinium DARPA Spectrum Collaboration Challenge Radio Design and Implementation,” 2019 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), November 11–14, 2019, pp. 1–6.
+[17] Baxley, R. J., and R. S. Thompson, “Team Zylinium DARPA Spectrum Collaboration Challenge Radio Design and Implementation,” 2019 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), November 11–14, 2019, pp. 1–6.  
 [18] NI, “LabVIEW 2020 FPGA IP Export Utility Readme,” March 2020, http://www.ni.com/pdf/manuals/378241a.html.  
 [19] DeMarco, T., and T. R. Lister, Waltzing with Bears: Managing Risk on Software Projects. New York: Dorset House, 2003.  
 [20] McConnell, S., Software Estimation: Demystifying the Black Art, Redmond, WA: Microsoft Press, 2006.  
